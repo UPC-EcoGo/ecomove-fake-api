@@ -737,7 +737,7 @@
       "vehicleID": "5",
       "status": "confirmed",
       "startTime": "2024-05-02T05:00:00.000Z",
-      "endDate": "2024-05-03T12:05:26.071Z"
+      "endTime": "2024-05-03T12:05:26.071Z"
     },
     {
       "id": "22",
@@ -745,7 +745,7 @@
       "vehicleID": "11",
       "status": "confirmed",
       "startTime": "2024-05-03T05:00:00.000Z",
-      "endDate": "2024-05-03T13:27:34.218Z"
+      "endTime": "2024-05-03T13:27:34.218Z"
     },
     {
       "id": "23",
@@ -753,7 +753,7 @@
       "vehicleID": "4",
       "status": "confirmed",
       "startTime": "2023-05-04T05:00:00.000Z",
-      "endDate": "2024-05-03T13:29:31.323Z"
+      "endTime": "2024-05-03T13:29:31.323Z"
     }
   ],
   "transaction": [
